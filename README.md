@@ -1,2 +1,0 @@
-# DEStepik
-First commit
